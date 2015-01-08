@@ -11,8 +11,8 @@ A `department` is basically same as a store but limited in scope.
 Before you can use the `storeit-plugin-department` plugin, you must install it into StoreIt as follows:
 ```javascript
 var Storeit = require("storeit");
-var departmentPliugin = require("storeit-plugin-department");
-Storeit.use(departmentPliugin);
+var departmentPlugin = require("storeit-plugin-department");
+Storeit.use(departmentPlugin);
 ```
 ## Example
 Here is an example of what you can do with departments:
